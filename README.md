@@ -17,6 +17,13 @@ Our model output on WebNLG 2020 test set is available at [output.txt](output.txt
 
 If you need the codes now, please feel free to email the first author, Qipeng Guo, by [qpguo16@fudan.edu.cn](mailto:qpguo16@fudan.edu.cn).
 
-
+## Citation
+```bibtex
+@article{guo2020p2,
+  title={P2: A Plan-and-Pretrain Approach for Knowledge Graph-to-Text Generation},
+  author={Qipeng Guo, Zhijing Jin, Ning Dai, Xipeng Qiu, Xiangyang Xue, David Wipf, and Zheng Zhang},
+  year={2017}
+}
+```
 
 
