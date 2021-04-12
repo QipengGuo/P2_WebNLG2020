@@ -8,6 +8,6 @@ gpus: 8
 clip: 1.0
 seed: 654321 
 batch_size: 2
-train_file: "ptrain.json"
-dev_file: "pdev.json"
-test_file: "ptest.json"
+train_file: "ptrain.txt"
+dev_file: "pdev.txt"
+test_file: "ptest.txt"
