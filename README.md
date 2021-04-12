@@ -11,11 +11,11 @@ Our P2 model consists of two steps:
 ![](https://i.imgur.com/hJEQzPx.png)
 
 ## Codes
-We will release our code soon, now waiting for some internal permissions.
+Run the run.sh for the training and the fix\_nonenglish.py is a post-process script to map the character back to the original non-english one.
 
 Our model output on WebNLG 2020 test set is available at [output.txt](output.txt).
 
-If you need the codes now, please feel free to email the first author, Qipeng Guo, by [qpguo16@fudan.edu.cn](mailto:qpguo16@fudan.edu.cn).
+If you have any question, please feel free to email the first author, Qipeng Guo, by [qpguo16@fudan.edu.cn](mailto:qpguo16@fudan.edu.cn).
 
 ## Citation
 ```bibtex
