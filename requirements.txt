@@ -5,3 +5,4 @@ unidecode
 transformers=3.2.0
 SentencePiece
 sklearn
+torch
